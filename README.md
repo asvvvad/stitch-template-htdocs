@@ -1,13 +1,13 @@
-# Stitch template with MVC
-This is a Stitch template with an MVC structure.
+# Stitch template for Apache htdocs structure
+This is a Stitch template with an Apache htdocs structure.
 
 ## Instalation
 
-`git clone https://github.com/asvvvad/stitch-template-mvc/`
+`git clone https://github.com/asvvvad/stitch-template-htdocs/`
 
 `cd stitch-template-mvc/data/`
 
 `composer update` 
 
 ## Documentation
-Refer to the [documentation](#docs) for more information.
+Refer to the [documentation](http://stitch.asvvvad.eu.org#docs) for more information.
